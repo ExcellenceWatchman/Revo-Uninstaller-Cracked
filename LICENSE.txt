@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-revo-uninstaller, revo-2026, uninstaller, forced-uninstall, leftover-cleaner, registry-trace, hunter-mode                           
+revo-uninstaller, revo-2026, uninstaller, forced-uninstall, leftover-cleaner, registry-trace, hunter-mode                            
